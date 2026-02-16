@@ -51,5 +51,5 @@ To begin my career as a SOC Analyst where I can apply my analytical skills, stre
 
 ## 📫 Connect With Me
 
-- LinkedIn: (Add your LinkedIn profile link)
-- Email: (Add your professional email)
+- LinkedIn: https://www.linkedin.com/in/rushikesh-bhosale-54889a278  
+- Email: rushibhosale153@gmail.com
