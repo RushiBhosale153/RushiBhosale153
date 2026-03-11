@@ -1,22 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0A2540,70:00A8CC,100:0D1117&height=250&section=header&text=Rushikesh%20Jotiram%20Bhosale&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Cybersecurity%20Analyst%20%7C%20SOC%20Analyst%20%7C%20Threat%20Detection%20%7C%20Incident%20Response&descAlignY=66&descSize=17"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=%24+Initializing+SOC+Profile...;%24+Monitoring+logs+and+alerts...;%24+Tracking+threats+in+real+time...;%24+Incident+Response+Mode%3A+ACTIVE" alt="Terminal Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0A2540,70:00A8CC,100:0D1117&height=250&section=header&text=Rushikesh%20Jotiram%20Bhosale&fontSize=42&fontColor=ffffff&desc=Cybersecurity%20Analyst%20%7C%20SOC%20Analyst%20%7C%20Threat%20Detection%20%7C%20Incident%20Response&descAlignY=66&descSize=17"/>
 </p>
 
 # 🛡️ Rushikesh Bhosale
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Specialist;SOC+Analyst;Incident+Responder;Digital+Forensics+Enthusiast" />
+  <img src="https://img.shields.io/badge/SOC-Monitoring%20Active-00D1FF?style=for-the-badge&logo=probot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Threat%20Detection-Operational-FF6F00?style=for-the-badge&logo=datadog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Incident%20Response-Ready-0F9D58?style=for-the-badge&logo=opsgenie&logoColor=white"/>
 </p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=RushiBhosale153&color=00d1ff&style=flat-square&label=PROFILE+VIEWS"/>
-</p>
-
----
 
 ## 👨‍💻 About Me
 
@@ -49,6 +41,8 @@
 </p>
 
 
+<div align="center">
+
 ```text
 ┌──────────────────────────────────────────────┐
 │  SECURITY OPERATIONS CENTER STATUS           │
@@ -59,9 +53,10 @@
 │  Malware Investigation  : RUNNING            │
 │  Threat Detection       : OPERATIONAL        │
 └──────────────────────────────────────────────┘
-```
 
----
+```
+</div> 
+
 
 # 🔧 Skill Vault
 
@@ -110,7 +105,29 @@
 
 ![Cisco Certification](https://img.shields.io/badge/Junior_Cybersecurity_Analyst-Cisco-005A70?style=for-the-badge&logo=cisco&logoColor=white)
 
-**(Feb 2026)**
+**Junior Cybersecurity Analyst – Cisco**  
+(Feb 2026)
+
+---
+
+![Cisco Certification](https://img.shields.io/badge/Introduction_to_Cybersecurity-Cisco-005A70?style=for-the-badge&logo=cisco&logoColor=white)
+
+**Introduction to Cybersecurity – Cisco**  
+(Feb 2026)
+
+---
+
+![Cisco Certification](https://img.shields.io/badge/Getting_Started_with_Cisco_Packet_Tracer-Cisco_Networking_Academy-005A70?style=for-the-badge&logo=cisco&logoColor=white)
+
+**Getting Started with Cisco Packet Tracer – Cisco Networking Academy**  
+(Feb 2026)
+
+---
+
+![Cisco Certification](https://img.shields.io/badge/Exploring_Networking_with_Cisco_Packet_Tracer-Cisco_Networking_Academy-005A70?style=for-the-badge&logo=cisco&logoColor=white)
+
+**Exploring Networking with Cisco Packet Tracer – Cisco Networking Academy**  
+(Mar 2026)
 
 ---
 
@@ -120,27 +137,19 @@
 
 ---
 
-# 📊 GitHub Intelligence
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RushiBhosale153&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushiBhosale153&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RushiBhosale153&theme=tokyonight&hide_border=true"/>
-</p>
-
-
----
-
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RushiBhosale153&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D1FF&line=00D1FF&point=FFFFFF" alt="Contribution Graph" />
+<code>Threat Monitoring | Log Analysis | Malware Investigation | Incident Response</code>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RushiBhosale153&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00D1FF&rank_icon=github" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushiBhosale153&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D1FF&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RushiBhosale153&theme=tokyonight&hide_border=true&background=0D1117&ring=00D1FF&fire=00D1FF&currStreakLabel=00D1FF" alt="GitHub Streak" />
 </p>
 
 ---
@@ -148,13 +157,17 @@
 # 📫 Connect With Me
 
 <p align="center">
+I’m always open to collaboration, cybersecurity discussions, and career opportunities.
+</p>
 
-<a href="https://www.linkedin.com/in/rushikesh-bhosale-54889a278">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rushikesh-bhosale-54889a278" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Rushikesh_Bhosale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:rushibhosale153@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
