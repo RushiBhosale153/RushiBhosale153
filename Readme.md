@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:00D1FF,100:0F2027&height=250&section=header&text=Rushikesh%20Jotiram%20Bhosale&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Cybersecurity%20Analyst%20%7C%20SOC%20Analyst%20%7C%20Threat%20Detection%20%7C%20Incident%20Response&descAlignY=65&descSize=16"/>
+
+
 # 🛡️ Rushikesh Bhosale
 
 <p align="center">
