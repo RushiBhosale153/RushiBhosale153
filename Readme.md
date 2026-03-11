@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:00D1FF,100:0F2027&height=250&section=header&text=Rushikesh%20Jotiram%20Bhosale&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Cybersecurity%20Analyst%20%7C%20SOC%20Analyst%20%7C%20Threat%20Detection%20%7C%20Incident%20Response&descAlignY=65&descSize=16"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0A2540,70:00A8CC,100:0D1117&height=250&section=header&text=Rushikesh%20Jotiram%20Bhosale&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Cybersecurity%20Analyst%20%7C%20SOC%20Analyst%20%7C%20Threat%20Detection%20%7C%20Incident%20Response&descAlignY=66&descSize=17"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=%24+Initializing+SOC+Profile...;%24+Monitoring+logs+and+alerts...;%24+Tracking+threats+in+real+time...;%24+Incident+Response+Mode%3A+ACTIVE" alt="Terminal Typing Animation" />
